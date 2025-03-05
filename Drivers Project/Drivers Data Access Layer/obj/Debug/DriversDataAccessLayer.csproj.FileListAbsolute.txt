@@ -1,0 +1,6 @@
+D:\منوعات\برمجة\C#\الكورسات\# 19  Full Real Project\Drivers Project\Drivers Data Access Layer\bin\Debug\Drivers Data Access Layer.dll
+D:\منوعات\برمجة\C#\الكورسات\# 19  Full Real Project\Drivers Project\Drivers Data Access Layer\bin\Debug\Drivers Data Access Layer.pdb
+D:\منوعات\برمجة\C#\الكورسات\# 19  Full Real Project\Drivers Project\Drivers Data Access Layer\obj\Debug\DriversDataAccessLayer.csproj.AssemblyReference.cache
+D:\منوعات\برمجة\C#\الكورسات\# 19  Full Real Project\Drivers Project\Drivers Data Access Layer\obj\Debug\DriversDataAccessLayer.csproj.CoreCompileInputs.cache
+D:\منوعات\برمجة\C#\الكورسات\# 19  Full Real Project\Drivers Project\Drivers Data Access Layer\obj\Debug\Drivers Data Access Layer.dll
+D:\منوعات\برمجة\C#\الكورسات\# 19  Full Real Project\Drivers Project\Drivers Data Access Layer\obj\Debug\Drivers Data Access Layer.pdb

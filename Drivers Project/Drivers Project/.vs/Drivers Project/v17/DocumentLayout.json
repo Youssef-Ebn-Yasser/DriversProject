@@ -1,0 +1,181 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\abdal\\Downloads\\Telegram Desktop\\Drivers Project\\Drivers Project\\Drivers Project\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F08D0C07-B140-49F1-A509-04BF2188457E}|Drivers Project.csproj|C:\\Users\\abdal\\Downloads\\Telegram Desktop\\Drivers Project\\Drivers Project\\Drivers Project\\frmaddeditnewpearson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F08D0C07-B140-49F1-A509-04BF2188457E}|Drivers Project.csproj|solutionrelative:frmaddeditnewpearson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F08D0C07-B140-49F1-A509-04BF2188457E}|Drivers Project.csproj|C:\\Users\\abdal\\Downloads\\Telegram Desktop\\Drivers Project\\Drivers Project\\Drivers Project\\frmaddeditnewpearson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F08D0C07-B140-49F1-A509-04BF2188457E}|Drivers Project.csproj|solutionrelative:frmaddeditnewpearson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F08D0C07-B140-49F1-A509-04BF2188457E}|Drivers Project.csproj|c:\\users\\abdal\\downloads\\telegram desktop\\drivers project\\drivers project\\drivers project\\frmpeoplemanagement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F08D0C07-B140-49F1-A509-04BF2188457E}|Drivers Project.csproj|solutionrelative:frmpeoplemanagement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F08D0C07-B140-49F1-A509-04BF2188457E}|Drivers Project.csproj|C:\\Users\\abdal\\Downloads\\Telegram Desktop\\Drivers Project\\Drivers Project\\Drivers Project\\ctrlpearsoncard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F08D0C07-B140-49F1-A509-04BF2188457E}|Drivers Project.csproj|solutionrelative:ctrlpearsoncard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F08D0C07-B140-49F1-A509-04BF2188457E}|Drivers Project.csproj|C:\\Users\\abdal\\Downloads\\Telegram Desktop\\Drivers Project\\Drivers Project\\Drivers Project\\ctrlpearsoncard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F08D0C07-B140-49F1-A509-04BF2188457E}|Drivers Project.csproj|solutionrelative:ctrlpearsoncard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{019562B7-B90E-403D-9986-7CA93E5190A0}|..\\DriversBusinessLayer\\DriversBusinessLayer.csproj|c:\\users\\abdal\\downloads\\telegram desktop\\drivers project\\drivers project\\driversbusinesslayer\\clscountrybusinesslayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F08D0C07-B140-49F1-A509-04BF2188457E}|Drivers Project.csproj|C:\\Users\\abdal\\Downloads\\Telegram Desktop\\Drivers Project\\Drivers Project\\Drivers Project\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F08D0C07-B140-49F1-A509-04BF2188457E}|Drivers Project.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{019562B7-B90E-403D-9986-7CA93E5190A0}|..\\DriversBusinessLayer\\DriversBusinessLayer.csproj|c:\\users\\abdal\\downloads\\telegram desktop\\drivers project\\drivers project\\driversbusinesslayer\\clspeoplebusinesslayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{597B3218-BEF5-4A5F-A56B-17E7B171FA84}|..\\Drivers Data Access Layer\\DriversDataAccessLayer.csproj|c:\\users\\abdal\\downloads\\telegram desktop\\drivers project\\drivers project\\drivers data access layer\\clscountriesdataaccess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F08D0C07-B140-49F1-A509-04BF2188457E}|Drivers Project.csproj|C:\\Users\\abdal\\Downloads\\Telegram Desktop\\Drivers Project\\Drivers Project\\Drivers Project\\frmpeoplemanagement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F08D0C07-B140-49F1-A509-04BF2188457E}|Drivers Project.csproj|solutionrelative:frmpeoplemanagement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "clsCountryBusinessLayer.cs",
+              "DocumentMoniker": "C:\\Users\\abdal\\Downloads\\Telegram Desktop\\Drivers Project\\Drivers Project\\DriversBusinessLayer\\clsCountryBusinessLayer.cs",
+              "RelativeDocumentMoniker": "..\\DriversBusinessLayer\\clsCountryBusinessLayer.cs",
+              "ToolTip": "C:\\Users\\abdal\\Downloads\\Telegram Desktop\\Drivers Project\\Drivers Project\\DriversBusinessLayer\\clsCountryBusinessLayer.cs",
+              "RelativeToolTip": "..\\DriversBusinessLayer\\clsCountryBusinessLayer.cs",
+              "ViewState": "AgIAAGUAAAAAAAAAAAAAAHQAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-06T20:04:06.918Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ctrlPearsonCard.cs",
+              "DocumentMoniker": "C:\\Users\\abdal\\Downloads\\Telegram Desktop\\Drivers Project\\Drivers Project\\Drivers Project\\ctrlPearsonCard.cs",
+              "RelativeDocumentMoniker": "ctrlPearsonCard.cs",
+              "ToolTip": "C:\\Users\\abdal\\Downloads\\Telegram Desktop\\Drivers Project\\Drivers Project\\Drivers Project\\ctrlPearsonCard.cs",
+              "RelativeToolTip": "ctrlPearsonCard.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAqwBUAAABYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-06T20:04:01.836Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "frmAddEditNewPearson.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\abdal\\Downloads\\Telegram Desktop\\Drivers Project\\Drivers Project\\Drivers Project\\frmAddEditNewPearson.cs",
+              "RelativeDocumentMoniker": "frmAddEditNewPearson.cs",
+              "ToolTip": "C:\\Users\\abdal\\Downloads\\Telegram Desktop\\Drivers Project\\Drivers Project\\Drivers Project\\frmAddEditNewPearson.cs [Design]",
+              "RelativeToolTip": "frmAddEditNewPearson.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-04T22:02:21.996Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "frmAddEditNewPearson.cs",
+              "DocumentMoniker": "C:\\Users\\abdal\\Downloads\\Telegram Desktop\\Drivers Project\\Drivers Project\\Drivers Project\\frmAddEditNewPearson.cs",
+              "RelativeDocumentMoniker": "frmAddEditNewPearson.cs",
+              "ToolTip": "C:\\Users\\abdal\\Downloads\\Telegram Desktop\\Drivers Project\\Drivers Project\\Drivers Project\\frmAddEditNewPearson.cs",
+              "RelativeToolTip": "frmAddEditNewPearson.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAAACcAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-05T00:01:53.813Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "clsCountriesDataAccess.cs",
+              "DocumentMoniker": "C:\\Users\\abdal\\Downloads\\Telegram Desktop\\Drivers Project\\Drivers Project\\Drivers Data Access Layer\\clsCountriesDataAccess.cs",
+              "RelativeDocumentMoniker": "..\\Drivers Data Access Layer\\clsCountriesDataAccess.cs",
+              "ToolTip": "C:\\Users\\abdal\\Downloads\\Telegram Desktop\\Drivers Project\\Drivers Project\\Drivers Data Access Layer\\clsCountriesDataAccess.cs",
+              "RelativeToolTip": "..\\Drivers Data Access Layer\\clsCountriesDataAccess.cs",
+              "ViewState": "AgIAANUAAAAAAAAAAADgv+EAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-06T20:04:07.992Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "frmPeopleManagement.cs",
+              "DocumentMoniker": "C:\\Users\\abdal\\Downloads\\Telegram Desktop\\Drivers Project\\Drivers Project\\Drivers Project\\frmPeopleManagement.cs",
+              "RelativeDocumentMoniker": "frmPeopleManagement.cs",
+              "ToolTip": "C:\\Users\\abdal\\Downloads\\Telegram Desktop\\Drivers Project\\Drivers Project\\Drivers Project\\frmPeopleManagement.cs",
+              "RelativeToolTip": "frmPeopleManagement.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAArwCgAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-06T20:03:29.147Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ctrlPearsonCard.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\abdal\\Downloads\\Telegram Desktop\\Drivers Project\\Drivers Project\\Drivers Project\\ctrlPearsonCard.cs",
+              "RelativeDocumentMoniker": "ctrlPearsonCard.cs",
+              "ToolTip": "C:\\Users\\abdal\\Downloads\\Telegram Desktop\\Drivers Project\\Drivers Project\\Drivers Project\\ctrlPearsonCard.cs [Design]",
+              "RelativeToolTip": "ctrlPearsonCard.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-06T20:09:55.941Z"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "clsPeopleBusinessLayer.cs",
+              "DocumentMoniker": "C:\\Users\\abdal\\Downloads\\Telegram Desktop\\Drivers Project\\Drivers Project\\DriversBusinessLayer\\clsPeopleBusinessLayer.cs",
+              "RelativeDocumentMoniker": "..\\DriversBusinessLayer\\clsPeopleBusinessLayer.cs",
+              "ToolTip": "C:\\Users\\abdal\\Downloads\\Telegram Desktop\\Drivers Project\\Drivers Project\\DriversBusinessLayer\\clsPeopleBusinessLayer.cs",
+              "RelativeToolTip": "..\\DriversBusinessLayer\\clsPeopleBusinessLayer.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAAAC0AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-06T20:05:17.315Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\abdal\\Downloads\\Telegram Desktop\\Drivers Project\\Drivers Project\\Drivers Project\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\abdal\\Downloads\\Telegram Desktop\\Drivers Project\\Drivers Project\\Drivers Project\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA8AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-06T20:09:58.911Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "frmPeopleManagement.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\abdal\\Downloads\\Telegram Desktop\\Drivers Project\\Drivers Project\\Drivers Project\\frmPeopleManagement.cs",
+              "RelativeDocumentMoniker": "frmPeopleManagement.cs",
+              "ToolTip": "C:\\Users\\abdal\\Downloads\\Telegram Desktop\\Drivers Project\\Drivers Project\\Drivers Project\\frmPeopleManagement.cs [Design]",
+              "RelativeToolTip": "frmPeopleManagement.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-05T20:29:06.028Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

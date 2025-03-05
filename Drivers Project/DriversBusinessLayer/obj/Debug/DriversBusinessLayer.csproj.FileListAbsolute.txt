@@ -1,0 +1,9 @@
+D:\منوعات\برمجة\C#\الكورسات\# 19  Full Real Project\Drivers Project\DriversBusinessLayer\bin\Debug\DriversBusinessLayer.dll
+D:\منوعات\برمجة\C#\الكورسات\# 19  Full Real Project\Drivers Project\DriversBusinessLayer\bin\Debug\DriversBusinessLayer.pdb
+D:\منوعات\برمجة\C#\الكورسات\# 19  Full Real Project\Drivers Project\DriversBusinessLayer\bin\Debug\Drivers Data Access Layer.dll
+D:\منوعات\برمجة\C#\الكورسات\# 19  Full Real Project\Drivers Project\DriversBusinessLayer\bin\Debug\Drivers Data Access Layer.pdb
+D:\منوعات\برمجة\C#\الكورسات\# 19  Full Real Project\Drivers Project\DriversBusinessLayer\obj\Debug\DriversBusinessLayer.csproj.AssemblyReference.cache
+D:\منوعات\برمجة\C#\الكورسات\# 19  Full Real Project\Drivers Project\DriversBusinessLayer\obj\Debug\DriversBusinessLayer.csproj.CoreCompileInputs.cache
+D:\منوعات\برمجة\C#\الكورسات\# 19  Full Real Project\Drivers Project\DriversBusinessLayer\obj\Debug\DriversB.B5C5A6CA.Up2Date
+D:\منوعات\برمجة\C#\الكورسات\# 19  Full Real Project\Drivers Project\DriversBusinessLayer\obj\Debug\DriversBusinessLayer.dll
+D:\منوعات\برمجة\C#\الكورسات\# 19  Full Real Project\Drivers Project\DriversBusinessLayer\obj\Debug\DriversBusinessLayer.pdb
